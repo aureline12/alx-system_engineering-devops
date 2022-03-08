@@ -1,2 +1,2 @@
 #!/bin/bash
-bconvert.sh -i 10 -o 16  $DECIMAL
+echo $((10#$DECIMAL))
